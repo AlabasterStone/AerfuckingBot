@@ -1,2 +1,2 @@
 # AerfuckingBot
-野营评论机器人
+野营评论机器人API
